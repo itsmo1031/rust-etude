@@ -1,0 +1,8 @@
+[cargo-new]
+vcs = "none"
+
+[workspace]
+members = [
+  "hello-cargo",
+  "guessing-game",
+]
